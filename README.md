@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhfdSyauqi
 - 👀 I’m interested in Fronted Web Development
-- 🌱 I’m currently learning Vue , NodeJs ,Flutter
+- 🌱 I’m currently learning Vue , NodeJs , Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @linkedin : https://www.linkedin.com/in/mahfudh-syauqi-2671761b3/
 <!---
