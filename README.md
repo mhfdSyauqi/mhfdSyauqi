@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahfudh Syauqi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **dotNet**
 
 <br>
 <h3 align="left">Connect with me:</h3>
